@@ -1,0 +1,10 @@
+header {
+  color:green;
+  background-color:orange;
+  text-align:center;
+  fontsize:10px;
+  display:block;
+}
+img {
+    float: right;
+}
